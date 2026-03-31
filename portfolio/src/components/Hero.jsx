@@ -41,7 +41,7 @@ export default function Hero() {
           </button>
           <a
             className="btn-ghost"
-            href="./Resume_Verdon.pdf"
+            href="/Resume_Verdon.pdf"
             target="_blank"
             rel="noreferrer"
             download="Resume_Verdon.pdf"
