@@ -4,9 +4,7 @@ import { useRef } from 'react'
 import './css/About.css'
 
 const skills = [
-  'React', 'TypeScript', 'Node.js', 'Express',
-  'PostgreSQL', 'MongoDB', 'Tailwind CSS', 'Git',
-  'Docker', 'REST APIs', 'Figma', 'Jest',
+  'React', 'JavaScript', 'Node.js', 'MySQL', 'MariaDB', 'PHP', 'Python', 'Java'
 ]
 
 function FadeIn({ children, delay = 0 }) {
@@ -45,11 +43,10 @@ export default function About() {
               </p>
               <p>
                 When I'm not coding, you'll find me reading about design systems,
-                experimenting with generative art, or exploring local coffee shops
-                with a book in hand.
+                experimenting with generative art, or exploring other programming technologies to excel my craft.
               </p>
               <p>
-                I'm currently based in <strong>Your City</strong> and open to remote
+                I'm currently based in <strong>Cavite City, 4100 Cavite, Philippines</strong> and open to remote
                 or hybrid roles.
               </p>
             </div>
